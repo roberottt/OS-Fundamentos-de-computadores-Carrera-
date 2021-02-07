@@ -1,4 +1,4 @@
-# OS-Fundamentos-de-computadores-Carrera-
+# Operating System
 This was my ARM based proyect for the Computer Fundamentals subject.
 
 If you want to try, you'll need QEMU.
